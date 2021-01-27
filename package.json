@@ -1,0 +1,19 @@
+{
+  "name": "schemazen",
+  "version": "1.0.0",
+  "description": "This is a npm package to simply wrap [schemazen](https://github.com/sethreno/schemazen) released executables and run inside js projects.",
+  "main": "SchemaZen.exe",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardoadc/schemazenNPM.git"
+  },
+  "keywords": ["SQL", "versioning"],
+  "author": "Seth Reno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernardoadc/schemazenNPM/issues"
+  },
+  "homepage": "https://github.com/bernardoadc/schemazenNPM#readme"
+}
