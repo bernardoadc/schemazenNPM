@@ -1,6 +1,6 @@
 {
   "name": "schemazen",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "This is a npm package to simply wrap [schemazen](https://github.com/sethreno/schemazen) released executables and run inside js projects.",
   "main": "SchemaZen.exe",
   "scripts": {
